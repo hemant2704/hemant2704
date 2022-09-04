@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hemant
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on java projects
 
 ### Connect with me:
